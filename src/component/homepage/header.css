@@ -1,0 +1,97 @@
+header{
+    background: url(../../assest/head.avif) center no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 100%;
+    text-align: left;
+    height: auto;
+    overflow: hidden;
+    padding: 25px 0px;
+}
+header .row{
+    margin: 30px 0px;
+}
+header h3{
+    
+    color: #43121d;
+    font-size: 55px;
+    line-height: 60px;
+    font-family: 'Tajawal', sans-serif;
+    font-weight: bold ;  
+    
+}
+header p{
+    color: #333;
+    font-family: 'Tajawal', sans-serif;
+    margin: 15px 0px;
+}
+
+header button{
+    
+    display: inline-block;
+    outline: 0;
+    cursor: pointer;
+    border-radius: 6px;
+    border: 2px solid #ab3550;
+    color: #fff;
+    background-color: #ab3550;
+    padding: 8px;
+    box-shadow: rgba(0, 0, 0, 0.07) 0px 2px 4px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1.5px 0px;
+    font-weight: 800;
+    font-size: 16px;
+    height: 45px;
+    width: 150px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Tajawal', sans-serif;
+    margin: 20px 10px 20px 0px;
+    
+        }
+    
+    header button:hover{
+        background: 0 0;
+        color: #ab3550;
+    }
+
+    header button:last-of-type{
+        background-color: #fff;
+        color: #000;
+    }
+    header button:hover{
+        transition: .2s ease-in-out;
+     }
+   
+    header button:last-of-type:hover{
+        background-color: #ab3550;
+        color: #fff;
+    }
+    
+    
+    
+
+
+
+
+/*<div class="col-md-5 col-sm-6">
+                        <h3>Good food choices are good investments.</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et purus a odio finibus bibendum amet leo. </p>
+                        <div class="space30"></div>
+                        <div class="dual-btn">
+                            <a href="#explore" class="btn btn-lg btn-primary page-scroll">Order Now <span class="fa fa-shopping-basket"></span></a> &nbsp; &nbsp;
+                            <a href="#about" class="btn btn-lg btn-default btn-border page-scroll">Learn More <i class=" ilmosys-arrow-right"></i></a>
+                        </div>
+
+                    </div>
+
+
+
+
+                    <div className="col-md.6">
+                    <h2>Good build choices are good investment.</h2>
+                     
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                        Etiam et purus a odio finibus bibendum amet leo.
+                        </p>
+                    <button>Order now</button>
+                    <button>Learn more</button>
+                </div>*/
